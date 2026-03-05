@@ -1,0 +1,26 @@
+{
+  "name": "mcp-successfactor-entraid-demo",
+  "version": "1.0.0",
+  "description": "MCP server demo that compares SAP SuccessFactors and Entra ID users",
+  "main": "dist/mcpServer.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/mcpServer.js",
+    "dev": "ts-node src/mcpServer.ts",
+    "test:mismatches": "ts-node src/mismatches.test.ts"
+  },
+  "keywords": ["mcp", "sap", "successfactors", "entraid", "azure-ad"],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.27.1",
+    "dotenv": "^17.3.1",
+    "express": "^5.2.1"
+  },
+  "devDependencies": {
+    "@types/express": "^5.0.6",
+    "@types/node": "^22.13.10",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.9.3"
+  }
+}

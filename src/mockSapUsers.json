@@ -1,0 +1,72 @@
+[
+  {
+    "userId": "sap001",
+    "email": "alice.johnson@example.com",
+    "firstName": "Alice",
+    "lastName": "Johnson",
+    "department": "Engineering"
+  },
+  {
+    "userId": "sap002",
+    "email": "bob.smith@example.com",
+    "firstName": "Bob",
+    "lastName": "Smith",
+    "department": "Finance"
+  },
+  {
+    "userId": "sap003",
+    "email": "carol.white@example.com",
+    "firstName": "Carol",
+    "lastName": "White",
+    "department": "Human Resources"
+  },
+  {
+    "userId": "sap004",
+    "email": "david.brown@example.com",
+    "firstName": "David",
+    "lastName": "Brown",
+    "department": "Sales"
+  },
+  {
+    "userId": "sap005",
+    "email": "eve.miller@example.com",
+    "firstName": "Eve",
+    "lastName": "Miller",
+    "department": "Engineering"
+  },
+  {
+    "userId": "sap006",
+    "email": "frank.wilson@example.com",
+    "firstName": "Frank",
+    "lastName": "Wilson",
+    "department": "Marketing"
+  },
+  {
+    "userId": "sap007",
+    "email": null,
+    "firstName": "Grace",
+    "lastName": "Taylor",
+    "department": "Legal"
+  },
+  {
+    "userId": "sap008",
+    "email": "henry.anderson@example.com",
+    "firstName": "Henry",
+    "lastName": "Anderson",
+    "department": "Operations"
+  },
+  {
+    "userId": "sap009",
+    "email": "iris.thomas@example.com",
+    "firstName": "Iris",
+    "lastName": "Thomas",
+    "department": "Engineering"
+  },
+  {
+    "userId": "sap010",
+    "email": "jack.martinez@example.com",
+    "firstName": "Jack",
+    "lastName": "Martinez",
+    "department": "Finance"
+  }
+]
