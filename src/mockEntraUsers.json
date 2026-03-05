@@ -1,0 +1,72 @@
+[
+  {
+    "id": "entra-001",
+    "userPrincipalName": "alice.johnson@example.com",
+    "mail": "alice.johnson@example.com",
+    "displayName": "Alice Johnson",
+    "department": "Engineering"
+  },
+  {
+    "id": "entra-002",
+    "userPrincipalName": "bob.smith@example.com",
+    "mail": "bob.smith@example.com",
+    "displayName": "Bob Smith",
+    "department": "Accounting"
+  },
+  {
+    "id": "entra-003",
+    "userPrincipalName": "carol.white@example.com",
+    "mail": "carol.white@example.com",
+    "displayName": "Carol White",
+    "department": "Human Resources"
+  },
+  {
+    "id": "entra-004",
+    "userPrincipalName": "david.brown@example.com",
+    "mail": "david.brown@example.com",
+    "displayName": "David Brown",
+    "department": "Sales"
+  },
+  {
+    "id": "entra-005",
+    "userPrincipalName": "eve.miller@example.com",
+    "mail": "eve.miller@example.com",
+    "displayName": "Eve Miller",
+    "department": "Product"
+  },
+  {
+    "id": "entra-006",
+    "userPrincipalName": "frank.wilson@example.com",
+    "mail": "frank.wilson@example.com",
+    "displayName": "Frank Wilson",
+    "department": "Marketing"
+  },
+  {
+    "id": "entra-007",
+    "userPrincipalName": "sap007",
+    "mail": null,
+    "displayName": "Grace Taylor",
+    "department": "Legal"
+  },
+  {
+    "id": "entra-008",
+    "userPrincipalName": "henry.anderson@example.com",
+    "mail": "henry.anderson@example.com",
+    "displayName": "Henry Anderson",
+    "department": "Operations"
+  },
+  {
+    "id": "entra-009",
+    "userPrincipalName": "newuser.entra@example.com",
+    "mail": "newuser.entra@example.com",
+    "displayName": "New Entra User",
+    "department": "IT"
+  },
+  {
+    "id": "entra-010",
+    "userPrincipalName": "another.entraonly@example.com",
+    "mail": "another.entraonly@example.com",
+    "displayName": "Another Entra Only",
+    "department": "Compliance"
+  }
+]
